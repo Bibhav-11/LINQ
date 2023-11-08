@@ -1,0 +1,16 @@
+LINQ
+Linq stands for Language Integreated Query.
+Linq is a name for a set of technologies based on the integration of query capabilities directly into the C# language.
+You can write LINQ Queries in C# for SQL server databases, XML documents, ADO.NET Datasets and any collection of objects that supports the IEnumerable or the generic IEnumerable<T> interface.
+
+Extension methods and Lambda Expressions are fundamental to how LINQ is implemented.
+The Enumerable and the Queryable class are the two static classes that contains the extension methods.
+The Enumerable class and the Queryable class are both members of the System.Linq namespace.
+
+So, to gain access to the extension methods provided through Linq, we can simply include the using directive to the System.Linq namespace.
+
+Linq also provides us with a SQL like query syntax.
+
+Deferred Execution vs Immediate Execution
+Adding ToList() makes the execution immediate.
+Adding ToList() explicitly converts IEnumerable to List.

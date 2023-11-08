@@ -1,0 +1,14 @@
+C:\Users\Bibhav\Desktop\LINQ Query\4 - LINQ Part 4\LINQExamples_3\LINQExamples_3\bin\Debug\net6.0\LINQExamples_3.exe
+C:\Users\Bibhav\Desktop\LINQ Query\4 - LINQ Part 4\LINQExamples_3\LINQExamples_3\bin\Debug\net6.0\LINQExamples_3.deps.json
+C:\Users\Bibhav\Desktop\LINQ Query\4 - LINQ Part 4\LINQExamples_3\LINQExamples_3\bin\Debug\net6.0\LINQExamples_3.runtimeconfig.json
+C:\Users\Bibhav\Desktop\LINQ Query\4 - LINQ Part 4\LINQExamples_3\LINQExamples_3\bin\Debug\net6.0\LINQExamples_3.dll
+C:\Users\Bibhav\Desktop\LINQ Query\4 - LINQ Part 4\LINQExamples_3\LINQExamples_3\bin\Debug\net6.0\LINQExamples_3.pdb
+C:\Users\Bibhav\Desktop\LINQ Query\4 - LINQ Part 4\LINQExamples_3\LINQExamples_3\obj\Debug\net6.0\LINQExamples_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bibhav\Desktop\LINQ Query\4 - LINQ Part 4\LINQExamples_3\LINQExamples_3\obj\Debug\net6.0\LINQExamples_3.AssemblyInfoInputs.cache
+C:\Users\Bibhav\Desktop\LINQ Query\4 - LINQ Part 4\LINQExamples_3\LINQExamples_3\obj\Debug\net6.0\LINQExamples_3.AssemblyInfo.cs
+C:\Users\Bibhav\Desktop\LINQ Query\4 - LINQ Part 4\LINQExamples_3\LINQExamples_3\obj\Debug\net6.0\LINQExamples_3.csproj.CoreCompileInputs.cache
+C:\Users\Bibhav\Desktop\LINQ Query\4 - LINQ Part 4\LINQExamples_3\LINQExamples_3\obj\Debug\net6.0\LINQExamples_3.dll
+C:\Users\Bibhav\Desktop\LINQ Query\4 - LINQ Part 4\LINQExamples_3\LINQExamples_3\obj\Debug\net6.0\refint\LINQExamples_3.dll
+C:\Users\Bibhav\Desktop\LINQ Query\4 - LINQ Part 4\LINQExamples_3\LINQExamples_3\obj\Debug\net6.0\LINQExamples_3.pdb
+C:\Users\Bibhav\Desktop\LINQ Query\4 - LINQ Part 4\LINQExamples_3\LINQExamples_3\obj\Debug\net6.0\LINQExamples_3.genruntimeconfig.cache
+C:\Users\Bibhav\Desktop\LINQ Query\4 - LINQ Part 4\LINQExamples_3\LINQExamples_3\obj\Debug\net6.0\ref\LINQExamples_3.dll

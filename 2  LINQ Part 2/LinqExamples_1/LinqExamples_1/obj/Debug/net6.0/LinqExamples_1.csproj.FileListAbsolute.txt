@@ -1,0 +1,14 @@
+C:\Users\Bibhav\Desktop\LINQ Query\2  LINQ Part 2\LinqExamples_1\LinqExamples_1\bin\Debug\net6.0\LinqExamples_1.exe
+C:\Users\Bibhav\Desktop\LINQ Query\2  LINQ Part 2\LinqExamples_1\LinqExamples_1\bin\Debug\net6.0\LinqExamples_1.deps.json
+C:\Users\Bibhav\Desktop\LINQ Query\2  LINQ Part 2\LinqExamples_1\LinqExamples_1\bin\Debug\net6.0\LinqExamples_1.runtimeconfig.json
+C:\Users\Bibhav\Desktop\LINQ Query\2  LINQ Part 2\LinqExamples_1\LinqExamples_1\bin\Debug\net6.0\LinqExamples_1.dll
+C:\Users\Bibhav\Desktop\LINQ Query\2  LINQ Part 2\LinqExamples_1\LinqExamples_1\bin\Debug\net6.0\LinqExamples_1.pdb
+C:\Users\Bibhav\Desktop\LINQ Query\2  LINQ Part 2\LinqExamples_1\LinqExamples_1\obj\Debug\net6.0\LinqExamples_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bibhav\Desktop\LINQ Query\2  LINQ Part 2\LinqExamples_1\LinqExamples_1\obj\Debug\net6.0\LinqExamples_1.AssemblyInfoInputs.cache
+C:\Users\Bibhav\Desktop\LINQ Query\2  LINQ Part 2\LinqExamples_1\LinqExamples_1\obj\Debug\net6.0\LinqExamples_1.AssemblyInfo.cs
+C:\Users\Bibhav\Desktop\LINQ Query\2  LINQ Part 2\LinqExamples_1\LinqExamples_1\obj\Debug\net6.0\LinqExamples_1.csproj.CoreCompileInputs.cache
+C:\Users\Bibhav\Desktop\LINQ Query\2  LINQ Part 2\LinqExamples_1\LinqExamples_1\obj\Debug\net6.0\LinqExamples_1.dll
+C:\Users\Bibhav\Desktop\LINQ Query\2  LINQ Part 2\LinqExamples_1\LinqExamples_1\obj\Debug\net6.0\refint\LinqExamples_1.dll
+C:\Users\Bibhav\Desktop\LINQ Query\2  LINQ Part 2\LinqExamples_1\LinqExamples_1\obj\Debug\net6.0\LinqExamples_1.pdb
+C:\Users\Bibhav\Desktop\LINQ Query\2  LINQ Part 2\LinqExamples_1\LinqExamples_1\obj\Debug\net6.0\LinqExamples_1.genruntimeconfig.cache
+C:\Users\Bibhav\Desktop\LINQ Query\2  LINQ Part 2\LinqExamples_1\LinqExamples_1\obj\Debug\net6.0\ref\LinqExamples_1.dll

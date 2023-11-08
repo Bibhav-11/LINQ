@@ -1,0 +1,8 @@
+Equality Operator - Sequence Equal
+Concatenation Operator - Concat
+Set Operators - Distinct, Except, Intersect and Union
+Generation Operators - DefaultIfEmpty, Empty, Range and Repeat
+Aggregate Operators - Aggregate, Average, Count, Sum and Max
+Partitioning Operators - Skip, SkipWhile, Take and TakeWhile
+Conversion Operators - ToList, ToDictionary and ToArray
+Projection Operators - Select and SelectMany
